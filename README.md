@@ -21,14 +21,15 @@
 ![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### Tools:
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![SpringToolSuite](https://img.shields.io/badge/-Spring%20Tool%20Suite-0D1117?style=for-the-badge&logo=spring&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![SpringToolSuite](https://img.shields.io/badge/-Spring%20Tool%20Suite-0D1117?style=for-the-badge&logo=spring&logoColor=green8&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=blue&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=orange&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=yellow&labelColor=0D1117)&nbsp;
 
 ### Connect with me:
 <a href="https://t.me/fabioscp" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&labelColor=0D1117"/></a>
