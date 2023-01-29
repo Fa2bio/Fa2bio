@@ -18,8 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=css3&logoColor=green&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue&labelColor=0D1117)&nbsp;
